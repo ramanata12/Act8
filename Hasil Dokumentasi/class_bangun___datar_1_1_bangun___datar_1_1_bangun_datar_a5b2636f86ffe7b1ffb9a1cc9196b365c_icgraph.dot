@@ -1,0 +1,10 @@
+digraph "Bangun_Datar.Bangun_Datar.BangunDatar.segitiga"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="RL";
+  Node1 [label="Bangun_Datar.Bangun\l_Datar.BangunDatar.segitiga",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Bangun_Datar.Bangun\l_Datar.Tests.BangunDatarTests.segitigaTest",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_bangun___datar_1_1_bangun___datar_1_1_tests_1_1_bangun_datar_tests.html#ac3cb08a26c543d4c966485e88a160aec",tooltip=" "];
+}

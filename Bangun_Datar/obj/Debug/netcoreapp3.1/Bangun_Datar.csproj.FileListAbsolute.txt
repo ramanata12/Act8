@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\Bangun_Datar\Bangun_Datar\bin\Debug\netcoreapp3.1\Bangun_Datar.exe
+C:\Users\LENOVO\source\repos\Bangun_Datar\Bangun_Datar\bin\Debug\netcoreapp3.1\Bangun_Datar.deps.json
+C:\Users\LENOVO\source\repos\Bangun_Datar\Bangun_Datar\bin\Debug\netcoreapp3.1\Bangun_Datar.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Bangun_Datar\Bangun_Datar\bin\Debug\netcoreapp3.1\Bangun_Datar.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\Bangun_Datar\Bangun_Datar\bin\Debug\netcoreapp3.1\Bangun_Datar.dll
+C:\Users\LENOVO\source\repos\Bangun_Datar\Bangun_Datar\bin\Debug\netcoreapp3.1\Bangun_Datar.pdb
+C:\Users\LENOVO\source\repos\Bangun_Datar\Bangun_Datar\obj\Debug\netcoreapp3.1\Bangun_Datar.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\Bangun_Datar\Bangun_Datar\obj\Debug\netcoreapp3.1\Bangun_Datar.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Bangun_Datar\Bangun_Datar\obj\Debug\netcoreapp3.1\Bangun_Datar.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Bangun_Datar\Bangun_Datar\obj\Debug\netcoreapp3.1\Bangun_Datar.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Bangun_Datar\Bangun_Datar\obj\Debug\netcoreapp3.1\Bangun_Datar.dll
+C:\Users\LENOVO\source\repos\Bangun_Datar\Bangun_Datar\obj\Debug\netcoreapp3.1\Bangun_Datar.pdb
+C:\Users\LENOVO\source\repos\Bangun_Datar\Bangun_Datar\obj\Debug\netcoreapp3.1\Bangun_Datar.genruntimeconfig.cache
